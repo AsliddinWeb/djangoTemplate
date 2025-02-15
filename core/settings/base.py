@@ -39,6 +39,9 @@ print(ALLOWED_HOSTS)
 # Application definition
 
 INSTALLED_APPS = [
+    # Unfold
+    'unfold',
+
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -49,6 +52,7 @@ INSTALLED_APPS = [
     # Global APPS
 
     # Local APPS
+    'settings_app',
 ]
 
 MIDDLEWARE = [
