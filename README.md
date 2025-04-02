@@ -8,8 +8,8 @@ Ushbu loyiha **Django** asosida yaratilgan.
 
 Loyihani **GitHub**'dan yuklab olish:
 ```bash
-git clone https://github.com/AsliddinWeb/djangoTemplate.git
-cd djangoTemplate
+git clone https://github.com/<username>/<repository>.git
+cd <repository>
 ```
 
 **1. `.env` faylini yaratish va unga quyidagi ma'lumotni kiritish:**
